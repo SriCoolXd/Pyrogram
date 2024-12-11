@@ -9,7 +9,7 @@
 https://codeload.github.com/SriCoolXd/Pyrogram/zip/refs/heads/Vortex
 ```
 
-## ✨ If Not You Can Directly Install Using Pip
+## ✨ You Can Directly Install Using Pip
 ```
 pip install git+https://github.com/SriCoolXd/pyrogram.git@Vortex
 ```
